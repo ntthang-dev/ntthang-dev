@@ -16,8 +16,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://open.spotify.com/user/m6om2tw5icvgvvuvlak3e7kre">
   <img align="left" alt="Jackie Nguyen's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-<a href="https://app.daily.dev/ntthang"><img src="https://api.daily.dev/devcards/51f7e033835c419ca59a8164474acdee.png?r=6xy" width="400" alt="Thang Nguyen Trong's Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ntthang-dev&label=Profile%20views&color=0662ad&style=flat" alt="ntthang-dev" /> </p>
+<a href="https://app.daily.dev/ntthang"><img src="https://api.daily.dev/devcards/51f7e033835c419ca59a8164474acdee.png?r=6xy" width="400" alt="Thang Nguyen Trong's Dev Card"/></a>
 
 <br />
 
