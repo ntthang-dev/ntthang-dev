@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
   <img align="left" alt="Jackie Nguyen's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ntthang-dev&label=Profile%20views&color=0662ad&style=flat" alt="ntthang-dev" /> </p>
-<a href="https://app.daily.dev/ntthang"><img src="https://api.daily.dev/devcards/51f7e033835c419ca59a8164474acdee.png?r=6xy" width="400" alt="Thang Nguyen Trong's Dev Card"/></a>
+
 
 <br />
 
@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 
 - ⚡ Fun fact : **I love to draw and play piano / drums**
 
-  <img align="right" alt="GIF" src="https://github.com/ntthang-dev/ntthang-dev/blob/main/Sleepiest.gif?raw=true" width="500" height="320" />
+<a href="https://app.daily.dev/ntthang"><img src="https://api.daily.dev/devcards/51f7e033835c419ca59a8164474acdee.png?r=6xy" width="400" alt="Thang Nguyen Trong's Dev Card"/></a>
 
 <!---Language and tools--->
 <h3 align="left">Languages and Tools:</h3>
