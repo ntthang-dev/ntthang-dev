@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 
 - ⚡ Fun fact : **I love to draw and play piano / drums**
 
-<a href="https://app.daily.dev/ntthang"><img src="https://api.daily.dev/devcards/51f7e033835c419ca59a8164474acdee.png?r=6xy" width="400" alt="Thang Nguyen Trong's Dev Card"/></a>
+<a href="https://app.daily.dev/ntthang"><img align ="right" src="https://api.daily.dev/devcards/51f7e033835c419ca59a8164474acdee.png?r=6xy" width="400" alt="Thang Nguyen Trong's Dev Card"/></a>
 
 <!---Language and tools--->
 <h3 align="left">Languages and Tools:</h3>
