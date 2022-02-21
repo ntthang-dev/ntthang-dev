@@ -197,7 +197,7 @@ You can click the Preview link to take a look at your changes.
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Week: 13 February, 2022 - 19 February, 2022
+Week: 14 February, 2022 - 20 February, 2022
 
 Markdown   39 mins         ███████████████████▓░░░░░   78.70 % 
 R          5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
