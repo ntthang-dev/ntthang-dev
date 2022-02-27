@@ -198,13 +198,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 February 2022 - To: 26 February 2022
-
-Markdown   39 mins         ███████████████████▓░░░░░   78.70 %
-R          5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
-Python     5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
-CSS        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
