@@ -198,7 +198,10 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 09 April 2022 - To: 16 April 2022
+
+Assembly   1 hr 44 mins    █████████████████████░░░░   84.35 %
+Other      19 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.65 %
 ```
 
 <!--END_SECTION:waka-->
