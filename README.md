@@ -198,10 +198,10 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 April 2022 - To: 19 April 2022
+From: 13 April 2022 - To: 20 April 2022
 
-Assembly   1 hr 44 mins    █████████████████████░░░░   84.35 %
-Other      19 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.65 %
+Assembly   2 hrs 42 mins   ████████████████████▒░░░░   81.48 %
+Other      31 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.64 %
 ```
 
 <!--END_SECTION:waka-->
