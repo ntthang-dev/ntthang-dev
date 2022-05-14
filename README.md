@@ -198,13 +198,10 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 May 2022 - To: 13 May 2022
+From: 07 May 2022 - To: 14 May 2022
 
-C          1 hr 43 mins    ██████████████████████▒░░   89.73 %
-C++        8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
-Python     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-Makefile   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Python   1 min           ████████████████████████▓   98.55 %
+Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 ```
 
 <!--END_SECTION:waka-->
