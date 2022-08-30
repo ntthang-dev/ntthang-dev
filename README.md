@@ -198,7 +198,10 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 23 August 2022 - To: 30 August 2022
+
+Markdown   0 secs          ████████████▓░░░░░░░░░░░░   50.82 %
+JSON       0 secs          ████████████▒░░░░░░░░░░░░   49.18 %
 ```
 
 <!--END_SECTION:waka-->
