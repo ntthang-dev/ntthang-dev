@@ -198,10 +198,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 August 2022 - To: 05 September 2022
-
-Markdown   0 secs          ████████████▓░░░░░░░░░░░░   50.82 %
-JSON       0 secs          ████████████▒░░░░░░░░░░░░   49.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
