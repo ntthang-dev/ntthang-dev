@@ -198,14 +198,9 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 September 2022 - To: 29 September 2022
+From: 23 September 2022 - To: 30 September 2022
 
-C          18 mins         ██████████████████▒░░░░░░   72.97 %
-Python     4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.20 %
-YAML       1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-Text       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+C   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
