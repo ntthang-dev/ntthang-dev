@@ -198,14 +198,12 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 September 2022 - To: 04 October 2022
+From: 28 September 2022 - To: 05 October 2022
 
-C                2 hrs 16 mins   █████████████▓░░░░░░░░░░░   54.56 %
-Markdown         1 hr 34 mins    █████████▓░░░░░░░░░░░░░░░   38.00 %
-Makefile         16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
-INI              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-ca65 assembler   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-SWIG             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+C                4 hrs 8 mins    ██████████████░░░░░░░░░░░   55.90 %
+Markdown         2 hrs 55 mins   ██████████░░░░░░░░░░░░░░░   39.52 %
+Makefile         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+Other            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
