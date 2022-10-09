@@ -198,7 +198,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 October 2022 - To: 08 October 2022
+From: 02 October 2022 - To: 09 October 2022
 
 C                7 hrs 38 mins   ██████████████░░░░░░░░░░░   56.57 %
 Markdown         4 hrs 41 mins   ████████▓░░░░░░░░░░░░░░░░   34.79 %
