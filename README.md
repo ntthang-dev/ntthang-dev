@@ -198,14 +198,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 October 2022 - To: 09 October 2022
+From: 03 October 2022 - To: 10 October 2022
 
-C                7 hrs 38 mins   ██████████████░░░░░░░░░░░   56.57 %
-Markdown         4 hrs 41 mins   ████████▓░░░░░░░░░░░░░░░░   34.79 %
-Batchfile        42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-Makefile         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-Objective-C      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-Other            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+C                6 hrs 54 mins   ███████████████▒░░░░░░░░░   60.93 %
+Markdown         3 hrs 31 mins   ███████▓░░░░░░░░░░░░░░░░░   31.06 %
+Batchfile        42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+Objective-C      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Other            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
