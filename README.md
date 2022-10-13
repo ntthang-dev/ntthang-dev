@@ -198,12 +198,11 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 October 2022 - To: 12 October 2022
+From: 06 October 2022 - To: 13 October 2022
 
-C                6 hrs 10 mins   ███████████████░░░░░░░░░░   59.36 %
-Markdown         3 hrs 12 mins   ███████▓░░░░░░░░░░░░░░░░░   30.84 %
-Batchfile        42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
-Other            9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+C                5 hrs 54 mins   ███████████████▓░░░░░░░░░   62.99 %
+Markdown         3 hrs 9 mins    ████████▒░░░░░░░░░░░░░░░░   33.68 %
+Other            9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
 ```
 
 <!--END_SECTION:waka-->
