@@ -198,11 +198,11 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 October 2022 - To: 20 October 2022
+From: 14 October 2022 - To: 21 October 2022
 
-Markdown   1 hr 43 mins    ██████████████████████▓░░   90.38 %
-C          10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Markdown   9 mins          ███████████████▒░░░░░░░░░   60.71 %
+C          6 mins          █████████▓░░░░░░░░░░░░░░░   38.39 %
+Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
