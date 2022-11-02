@@ -198,14 +198,14 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 October 2022 - To: 01 November 2022
+From: 26 October 2022 - To: 02 November 2022
 
-C          25 mins         ██████████░░░░░░░░░░░░░░░   40.42 %
-Git        21 mins         ████████▓░░░░░░░░░░░░░░░░   35.24 %
-Text       7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.36 %
-Markdown   7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
-C++        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-HTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+C++        51 mins         ███████████▒░░░░░░░░░░░░░   45.19 %
+C          25 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.18 %
+Git        21 mins         █████░░░░░░░░░░░░░░░░░░░░   19.34 %
+Text       7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+Markdown   7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+HTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
