@@ -198,10 +198,10 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 November 2022 - To: 27 November 2022
+From: 21 November 2022 - To: 28 November 2022
 
-Text             3 mins          ██████████████████████▒░░   89.72 %
-Other            0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
+C                59 mins         █████████████████████████   99.40 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
