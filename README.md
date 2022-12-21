@@ -198,14 +198,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 December 2022 - To: 20 December 2022
+From: 14 December 2022 - To: 21 December 2022
 
-Text    3 mins          ██████████████████▓░░░░░░   74.85 %
-C       0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.31 %
-HTML    0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-INI     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-D       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Other   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Text    13 mins         ██████████████████░░░░░░░   72.14 %
+C       5 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.63 %
+INI     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+D       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
