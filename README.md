@@ -198,7 +198,9 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 27 January 2023 - To: 03 February 2023
+
+C   55 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
