@@ -198,14 +198,9 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 February 2023 - To: 25 February 2023
+From: 19 February 2023 - To: 26 February 2023
 
-HTML         16 mins         ████████▓░░░░░░░░░░░░░░░░   34.88 %
-Markdown     13 mins         ███████▒░░░░░░░░░░░░░░░░░   29.66 %
-C            7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.08 %
-JavaScript   4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 %
-CSS          3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
-Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
