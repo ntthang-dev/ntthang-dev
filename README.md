@@ -198,7 +198,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 March 2023 - To: 08 March 2023
+From: 02 March 2023 - To: 09 March 2023
 
 Other      30 mins         ████████████████████▒░░░░   80.69 %
 ```
