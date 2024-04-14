@@ -198,7 +198,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 April 2024 - To: 13 April 2024
+From: 07 April 2024 - To: 14 April 2024
 
 C++           5 mins          ██████████████████████▒░░   89.95 %
 C             0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
