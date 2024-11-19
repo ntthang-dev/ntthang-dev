@@ -8,10 +8,10 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">Student of electrical engineering at the Ho Chi Minh University of Technology</h3>
 
 <a href="https://twitter.com/ntthang_dev">
-  <img align="left" alt="Jackie Nguyen | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Jackie Nguyen | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ntthang-dev/">
-  <img align="left" alt="Jackie Nguyen's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Jackie Nguyen's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 <a href="https://open.spotify.com/user/m6om2tw5icvgvvuvlak3e7kre">
   <img align="left" alt="Jackie Nguyen's Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" />
