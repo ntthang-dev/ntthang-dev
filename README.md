@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
   <img align="left" alt="Jackie Nguyen's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/m6om2tw5icvgvvuvlak3e7kre">
-  <img align="left" alt="Jackie Nguyen's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Jackie Nguyen's Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" />
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ntthang-dev&label=Profile%20views&color=0662ad&style=flat" alt="ntthang-dev" /> </p>
 
