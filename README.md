@@ -162,7 +162,7 @@ You can click the Preview link to take a look at your changes.
     </a>    
     <!---------------------Matlab---------------------> 
     <a href="https://www.mathworks.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40" /> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" /> 
     </a>        
     <!-- 
         IOT
