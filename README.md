@@ -198,13 +198,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 November 2024 - To: 21 November 2024
+From: 15 November 2024 - To: 22 November 2024
 
-Batchfile    3 hrs 23 mins   ███████████████▓░░░░░░░░░   62.76 %
-C            1 hr 5 mins     █████░░░░░░░░░░░░░░░░░░░░   20.26 %
-Markdown     37 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
-Other        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Git          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Batchfile    3 hrs 23 mins   █████████████░░░░░░░░░░░░   52.16 %
+C            2 hrs 11 mins   ████████▒░░░░░░░░░░░░░░░░   33.73 %
+Markdown     37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
+Other        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Git          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->
