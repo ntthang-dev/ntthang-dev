@@ -198,7 +198,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 November 2024 - To: 24 November 2024
+From: 18 November 2024 - To: 25 November 2024
 
 Batchfile    3 hrs 23 mins   ██████████▒░░░░░░░░░░░░░░   41.27 %
 C            3 hrs 20 mins   ██████████▒░░░░░░░░░░░░░░   40.73 %
