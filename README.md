@@ -198,13 +198,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 November 2024 - To: 02 December 2024
+From: 26 November 2024 - To: 03 December 2024
 
-C           3 hrs 23 mins   ███████████████▒░░░░░░░░░   61.28 %
-Python      30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
-C++         23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
-TeX         21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
-CMake       20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
+C           3 hrs 23 mins   ██████████████▓░░░░░░░░░░   58.70 %
+Python      30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
+C++         23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
+TeX         21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+CMake       20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
 ```
 
 <!--END_SECTION:waka-->
