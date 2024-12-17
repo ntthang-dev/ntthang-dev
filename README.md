@@ -198,13 +198,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 December 2024 - To: 16 December 2024
+From: 10 December 2024 - To: 17 December 2024
 
-C           56 mins         █████████▓░░░░░░░░░░░░░░░   38.31 %
-Python      42 mins         ███████░░░░░░░░░░░░░░░░░░   28.65 %
-Text        31 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.60 %
-Other       15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
-Batchfile   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+C           56 mins         ██████████░░░░░░░░░░░░░░░   40.42 %
+Python      42 mins         ███████▓░░░░░░░░░░░░░░░░░   30.23 %
+Text        31 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.79 %
+Other       7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+Batchfile   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
