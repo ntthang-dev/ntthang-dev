@@ -198,12 +198,9 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 February 2025 - To: 19 February 2025
+From: 13 February 2025 - To: 20 February 2025
 
-JSON         11 mins         █████████▓░░░░░░░░░░░░░░░   39.31 %
-SCSS         10 mins         █████████░░░░░░░░░░░░░░░░   36.34 %
-JavaScript   3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
-HTML         3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
