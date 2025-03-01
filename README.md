@@ -225,11 +225,11 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/ntthang-dev/AI-Logic-Puzzles/issues/9#issuecomment-2682914969) in [ntthang-dev/AI-Logic-Puzzles](https://github.com/ntthang-dev/AI-Logic-Puzzles)
-2. 🔓 Reopened issue [#10](https://github.com/ntthang-dev/AI-Logic-Puzzles/issues/10) in [ntthang-dev/AI-Logic-Puzzles](https://github.com/ntthang-dev/AI-Logic-Puzzles)
-3. 🗣 Commented on [#8](https://github.com/ntthang-dev/AI-Logic-Puzzles/issues/8#issuecomment-2681002369) in [ntthang-dev/AI-Logic-Puzzles](https://github.com/ntthang-dev/AI-Logic-Puzzles)
-4. ❗ Opened issue [#15](https://github.com/ntthang-dev/AI-Logic-Puzzles/issues/15) in [ntthang-dev/AI-Logic-Puzzles](https://github.com/ntthang-dev/AI-Logic-Puzzles)
-5. 🔒 Closed issue [#10](https://github.com/ntthang-dev/AI-Logic-Puzzles/issues/10) in [ntthang-dev/AI-Logic-Puzzles](https://github.com/ntthang-dev/AI-Logic-Puzzles)
+1. 🔓 Reopened issue [#13](https://github.com/ntthang-dev/AI-Logic-Puzzles/issues/13) in [ntthang-dev/AI-Logic-Puzzles](https://github.com/ntthang-dev/AI-Logic-Puzzles)
+2. 🔓 Reopened issue [#11](https://github.com/ntthang-dev/AI-Logic-Puzzles/issues/11) in [ntthang-dev/AI-Logic-Puzzles](https://github.com/ntthang-dev/AI-Logic-Puzzles)
+3. 🔓 Reopened issue [#12](https://github.com/ntthang-dev/AI-Logic-Puzzles/issues/12) in [ntthang-dev/AI-Logic-Puzzles](https://github.com/ntthang-dev/AI-Logic-Puzzles)
+4. 🔒 Closed issue [#5](https://github.com/ntthang-dev/AI-Logic-Puzzles/issues/5) in [ntthang-dev/AI-Logic-Puzzles](https://github.com/ntthang-dev/AI-Logic-Puzzles)
+5. 🔒 Closed issue [#7](https://github.com/ntthang-dev/AI-Logic-Puzzles/issues/7) in [ntthang-dev/AI-Logic-Puzzles](https://github.com/ntthang-dev/AI-Logic-Puzzles)
 <!--END_SECTION:activity-->
 
 </details>
