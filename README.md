@@ -198,13 +198,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 April 2025 - To: 17 April 2025
+From: 11 April 2025 - To: 18 April 2025
 
-Go           9 hrs 29 mins   ███████████████▓░░░░░░░░░   63.27 %
-YAML         1 hr 46 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
-Python       1 hr 29 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
-CSV          1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
-Other        35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+Go           8 hrs 43 mins   ███████████████░░░░░░░░░░   59.53 %
+YAML         2 hrs 28 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.89 %
+Other        1 hr 22 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+CSV          1 hr 18 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
+Markdown     24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
 ```
 
 <!--END_SECTION:waka-->
