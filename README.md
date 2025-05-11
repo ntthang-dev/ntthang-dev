@@ -198,11 +198,12 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2025 - To: 10 May 2025
+From: 04 May 2025 - To: 11 May 2025
 
-Python     41 mins         █████████████░░░░░░░░░░░░   51.64 %
-Markdown   28 mins         █████████░░░░░░░░░░░░░░░░   35.71 %
-Other      10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
+Python      41 mins         ██████████▓░░░░░░░░░░░░░░   42.34 %
+Markdown    28 mins         ███████▒░░░░░░░░░░░░░░░░░   29.28 %
+iCalendar   17 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.86 %
+Other       10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
 ```
 
 <!--END_SECTION:waka-->
