@@ -198,13 +198,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2025 - To: 31 May 2025
+From: 25 May 2025 - To: 01 June 2025
 
-Python     7 hrs 33 mins   ███████████████████████░░   92.53 %
-Markdown   18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-Other      10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-HTML       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Python       11 hrs 18 mins  ███████████████▓░░░░░░░░░   62.75 %
+HTML         3 hrs 12 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.78 %
+JavaScript   2 hrs 45 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.29 %
+Markdown     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
