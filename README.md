@@ -198,13 +198,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 June 2025 - To: 19 June 2025
+From: 13 June 2025 - To: 20 June 2025
 
-Python       7 hrs 56 mins   ███████████████████▒░░░░░   77.23 %
-PowerShell   1 hr 41 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.52 %
-Text         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-Bash         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-Batchfile    6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Python       14 hrs 9 mins   █████████████████████░░░░   83.86 %
+PowerShell   1 hr 41 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
+CSV          21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+Text         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Bash         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
