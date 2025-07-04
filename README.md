@@ -198,13 +198,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 June 2025 - To: 03 July 2025
+From: 27 June 2025 - To: 04 July 2025
 
-Python         15 hrs 6 mins   ████████████▓░░░░░░░░░░░░   51.23 %
-TeX            7 hrs 1 min     ██████░░░░░░░░░░░░░░░░░░░   23.82 %
-Rust           3 hrs 13 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 %
-TOML           1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-CSV            46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+Python         14 hrs 12 mins  ██████████████▓░░░░░░░░░░   58.46 %
+TeX            7 hrs 1 min     ███████▒░░░░░░░░░░░░░░░░░   28.89 %
+YAML           37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+CSV            37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+TOML           22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
