@@ -198,10 +198,11 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 July 2025 - To: 25 July 2025
+From: 19 July 2025 - To: 26 July 2025
 
-BibTeX         1 hr 5 mins     ████████████████████████▒   97.07 %
-OpenEdge ABL   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+BibTeX         2 hrs 2 mins    ███████████████████████▓░   94.86 %
+TeX            4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+OpenEdge ABL   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
