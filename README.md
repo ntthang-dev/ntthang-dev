@@ -198,11 +198,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 July 2025 - To: 01 August 2025
+From: 26 July 2025 - To: 02 August 2025
 
-BibTeX   56 mins         ███████████████████░░░░░░   75.97 %
-Other    13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.82 %
-TeX      4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+Python   32 mins         ███████████████▒░░░░░░░░░   61.68 %
+Other    13 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.33 %
+TOML     4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
+YAML     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+TeX      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
