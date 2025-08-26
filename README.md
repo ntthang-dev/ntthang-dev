@@ -198,12 +198,10 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2025 - To: 25 August 2025
+From: 19 August 2025 - To: 26 August 2025
 
-Python         24 mins         █████████████░░░░░░░░░░░░   52.30 %
-OpenEdge ABL   17 mins         █████████▒░░░░░░░░░░░░░░░   37.55 %
-Other          4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
-BibTeX         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Python   22 mins         ████████████████████▓░░░░   82.86 %
+Other    4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.14 %
 ```
 
 <!--END_SECTION:waka-->
