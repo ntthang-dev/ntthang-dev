@@ -221,8 +221,8 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](undefined) in [ntthang-dev/CO3117-ML-Project](https://github.com/ntthang-dev/CO3117-ML-Project)
-2. 🔒 Closed issue [#12](https://github.com/ntthang-dev/AI-Logic-Puzzles/issues/12) in [ntthang-dev/AI-Logic-Puzzles](https://github.com/ntthang-dev/AI-Logic-Puzzles)
+1. ❌ Merged PR [#2](undefined) in [ntthang-dev/CO3117-ML-Project](https://github.com/ntthang-dev/CO3117-ML-Project)
+2. 💪 Opened PR [#2](undefined) in [ntthang-dev/CO3117-ML-Project](https://github.com/ntthang-dev/CO3117-ML-Project)
 3. 🔒 Closed issue [#13](https://github.com/ntthang-dev/AI-Logic-Puzzles/issues/13) in [ntthang-dev/AI-Logic-Puzzles](https://github.com/ntthang-dev/AI-Logic-Puzzles)
 4. 🔓 Reopened issue [#13](https://github.com/ntthang-dev/AI-Logic-Puzzles/issues/13) in [ntthang-dev/AI-Logic-Puzzles](https://github.com/ntthang-dev/AI-Logic-Puzzles)
 5. 🔓 Reopened issue [#11](https://github.com/ntthang-dev/AI-Logic-Puzzles/issues/11) in [ntthang-dev/AI-Logic-Puzzles](https://github.com/ntthang-dev/AI-Logic-Puzzles)
