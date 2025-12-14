@@ -198,10 +198,10 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 December 2025 - To: 13 December 2025
+From: 07 December 2025 - To: 14 December 2025
 
-OpenEdge ABL   1 hr 5 mins     ███████████████████████▓░   94.51 %
-BibTeX         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
+OpenEdge ABL   19 mins         █████████████████████░░░░   83.35 %
+BibTeX         3 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.65 %
 ```
 
 <!--END_SECTION:waka-->
