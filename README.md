@@ -198,7 +198,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 December 2025 - To: 01 January 2026
+From: 26 December 2025 - To: 02 January 2026
 
 Python         13 mins         ██████████████████▒░░░░░░   73.19 %
 TeX            2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 %
