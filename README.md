@@ -198,13 +198,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2025 - To: 02 January 2026
+From: 27 December 2025 - To: 03 January 2026
 
-Python         13 mins         ██████████████████░░░░░░░   72.21 %
-TeX            2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.74 %
-JavaScript     1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
-OpenEdge ABL   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-Go             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+OpenEdge ABL   2 mins          ███████░░░░░░░░░░░░░░░░░░   27.86 %
+TeX            2 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.30 %
+Other          2 mins          ██████░░░░░░░░░░░░░░░░░░░   23.70 %
+JavaScript     1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
+BibTeX         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
 ```
 
 <!--END_SECTION:waka-->
