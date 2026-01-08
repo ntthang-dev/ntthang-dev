@@ -198,13 +198,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2025 - To: 07 January 2026
+From: 01 January 2026 - To: 08 January 2026
 
-Batchfile      8 mins          ████████████████▒░░░░░░░░   65.45 %
-Other          2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.27 %
-OpenEdge ABL   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
-BibTeX         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
-Go             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+Batchfile      19 mins         ███████████▓░░░░░░░░░░░░░   47.04 %
+PowerShell     17 mins         ██████████▓░░░░░░░░░░░░░░   42.77 %
+Other          2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+OpenEdge ABL   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+BibTeX         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 ```
 
 <!--END_SECTION:waka-->
