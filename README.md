@@ -198,13 +198,10 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 January 2026 - To: 09 January 2026
+From: 03 January 2026 - To: 10 January 2026
 
-Batchfile      19 mins         ███████████▓░░░░░░░░░░░░░   47.04 %
-PowerShell     17 mins         ██████████▓░░░░░░░░░░░░░░   42.77 %
-Other          2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-OpenEdge ABL   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-BibTeX         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Batchfile    19 mins         █████████████░░░░░░░░░░░░   52.38 %
+PowerShell   17 mins         ████████████░░░░░░░░░░░░░   47.62 %
 ```
 
 <!--END_SECTION:waka-->
