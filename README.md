@@ -198,10 +198,10 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 January 2026 - To: 13 January 2026
+From: 07 January 2026 - To: 14 January 2026
 
-Batchfile    19 mins         █████████████░░░░░░░░░░░░   52.38 %
-PowerShell   17 mins         ████████████░░░░░░░░░░░░░   47.62 %
+PowerShell   17 mins         ███████████████▒░░░░░░░░░   61.66 %
+Batchfile    11 mins         █████████▓░░░░░░░░░░░░░░░   38.34 %
 ```
 
 <!--END_SECTION:waka-->
