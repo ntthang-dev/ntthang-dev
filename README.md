@@ -198,12 +198,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 March 2026 - To: 27 March 2026
+From: 21 March 2026 - To: 28 March 2026
 
-Markdown    3 hrs 3 mins          ███████████████████████▓░   95.02 %
-Batchfile   4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-TeX         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-TOML        1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Markdown    3 hrs 17 mins         ██████████████████████▒░░   89.20 %
+Bash        10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+Batchfile   4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+CSV         4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+TeX         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 ```
 
 <!--END_SECTION:waka-->
