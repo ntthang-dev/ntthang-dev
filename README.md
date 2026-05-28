@@ -198,10 +198,11 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 May 2026 - To: 27 May 2026
+From: 21 May 2026 - To: 28 May 2026
 
-TeX   17 mins               ████████████████░░░░░░░░░   63.65 %
-CSV   9 mins                █████████░░░░░░░░░░░░░░░░   36.35 %
+Markdown   29 mins               ██████████████████▓░░░░░░   75.22 %
+TeX        7 mins                █████░░░░░░░░░░░░░░░░░░░░   20.26 %
+BibTeX     1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
 ```
 
 <!--END_SECTION:waka-->
