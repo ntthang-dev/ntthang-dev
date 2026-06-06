@@ -198,13 +198,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 May 2026 - To: 05 June 2026
+From: 30 May 2026 - To: 06 June 2026
 
-Markdown   31 mins               ███████████████▒░░░░░░░░░   60.90 %
-Python     13 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.79 %
-CSV        5 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
-Text       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-Bash       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Markdown     31 mins               █████████▒░░░░░░░░░░░░░░░   36.95 %
+Python       24 mins               ███████▒░░░░░░░░░░░░░░░░░   28.85 %
+PostScript   7 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 %
+CSV          5 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
+BibTeX       5 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
 ```
 
 <!--END_SECTION:waka-->
