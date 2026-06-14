@@ -225,7 +225,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#2](undefined) in [ntthang-dev/CO3117-ML-Project](https://github.com/ntthang-dev/CO3117-ML-Project)
+1. 🚀 Published release [v1.1.0](https://github.com/ntthang-dev/modbus-studio/releases/tag/v1.1.0) in [ntthang-dev/modbus-studio](https://github.com/ntthang-dev/modbus-studio)
 2. 💪 Opened PR [#2](undefined) in [ntthang-dev/CO3117-ML-Project](https://github.com/ntthang-dev/CO3117-ML-Project)
 3. 🔒 Closed issue [#13](https://github.com/ntthang-dev/AI-Logic-Puzzles/issues/13) in [ntthang-dev/AI-Logic-Puzzles](https://github.com/ntthang-dev/AI-Logic-Puzzles)
 4. 🔓 Reopened issue [#13](https://github.com/ntthang-dev/AI-Logic-Puzzles/issues/13) in [ntthang-dev/AI-Logic-Puzzles](https://github.com/ntthang-dev/AI-Logic-Puzzles)
