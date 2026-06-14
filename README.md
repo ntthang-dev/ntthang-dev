@@ -198,13 +198,10 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2026 - To: 13 June 2026
+From: 07 June 2026 - To: 14 June 2026
 
-Other        28 mins               █████████▓░░░░░░░░░░░░░░░   38.70 %
-JSON         22 mins               ███████▓░░░░░░░░░░░░░░░░░   30.70 %
-CSV          17 mins               ██████▒░░░░░░░░░░░░░░░░░░   24.72 %
-Python       3 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-PostScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Other   28 mins               ██████████████░░░░░░░░░░░   55.77 %
+JSON    22 mins               ███████████░░░░░░░░░░░░░░   44.23 %
 ```
 
 <!--END_SECTION:waka-->
